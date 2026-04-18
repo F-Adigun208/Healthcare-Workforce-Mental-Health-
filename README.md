@@ -27,7 +27,7 @@ Department: List od all departments where employee works
 
 **Key findings:** 
 
-Workplace Stress factors: The findings reveals that the bulk of stress exeperience by healthcare employes comes from Heavy Workload at 58% follow by Poor Workplace Environment and Safety Concern at 31% and 11% respectively. this suggests that while theres a good effeorts deploy towards making the working environment conducive in the healthcare industry, an urgent equal attention is require in managing the employees workload. an insight for the the management in the healthcare sector.
+Workplace Stress factors: The findings reveals that Heavy Workload explains over 58% of stress exeperience in the healthacare follow by Poor Workplace Environment and Safety Concern at 31% and 11% respectively. this suggests that while theres a good efforts deploy towards making the working environment conducive in the healthcare industry, an urgent equal attention is require in managing the employees workload. an insight for the the management in the healthcare sector.
 
 Average sress level by job roles: This Shows the average stress level of 7 on a scale of 1 to 10 for majority of the roles in the healthcare industry. An overview of the healthcare environment. 
 
@@ -38,5 +38,5 @@ Mental health absences by burnout frequency: Shows over 44% of employees that of
 Average job satisfaction by burnout frequency: Reveales over 38% of employees experiencing burnout ocassionaly, report low job satisfaction (scores 2.3).
 
 Mental health abscenses by stress level: Identifies stress level as one of the leading factors responsible for mental health abcenses.  every employee on a scale of 5 stress level reports to take an average of 3 days of mental health related abcenses.
-**Dashboard Overview:**
+
 ![Healthcareworkforcepbi](HealthcarementalHealthPBI.png)
